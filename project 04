@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stasiv Matvii 1 TP</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            margin: 0 auto; /* Centers the table */
+            width: 50%; /* Adjust the width as needed */
+        }
+        th, td {
+            border: 2px solid black; /* Sets the border */
+            padding: 10px; /* Adds padding inside the cells */
+            text-align: center; /* Centers text inside the cells */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Stasiv Matvii 1 TP</h1> <!-- Title of the table -->
+
+    <table>
+        <caption>Stasiv Matvii 1 TP</caption> <!-- Title inside the table -->
+        <tr>
+            <th>Header 1</th>
+            <th>Header 2</th>
+            <th>Header 3</th>
+        </tr>
+        <tr>
+            <td>Data 1</td>
+            <td>Data 2</td>
+            <td>Data 3</td>
+        </tr>
+        <tr>
+            <td>Data 4</td>
+            <td>Data 5</td>
+            <td>Data 6</td>
+        </tr>
+    </table>
+
+</body>
+</html>
